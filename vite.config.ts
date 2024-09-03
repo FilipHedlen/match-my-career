@@ -10,5 +10,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
-  base: '/match-my-career/',
+  base: '/',
 });
